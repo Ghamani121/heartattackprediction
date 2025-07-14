@@ -86,3 +86,11 @@ python ensemble.py
 
 # 6. Launch the Streamlit app
 streamlit run fe.py
+
+```
+---
+
+## Screenshots
+
+<img width="1911" height="815" alt="image" src="https://github.com/user-attachments/assets/c2ef12ea-61b5-4e5e-9fdc-e69504fc918a" />
+
